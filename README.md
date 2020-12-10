@@ -30,9 +30,9 @@ He wants to educate Henry IV
 in his spirit.
 ```
 
-This python script takes the two lines phrases, joint them and send it to deepl API,
-and split theanswer back to an output file (is not sendig the line numbers and
-start-end times, so you won't be charged for that).
+This python script takes the two lines phrases in the file, joint them and send it
+to deepl API, then split the answer back to an output file (is not sendig the line
+numbers and start-end times, so you won't be charged for that).
 Single line files are translated as is.
 
 ## Usage
